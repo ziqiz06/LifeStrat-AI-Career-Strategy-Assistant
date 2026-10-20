@@ -2,6 +2,8 @@
 
 An AI-powered career companion that imports your real Gmail inbox, surfaces the opportunities that matter, and builds a personalized schedule around your goals — without the overwhelm.
 
+🏆 **Finalist, K2 Think V2 API Track, YHack 2026**
+
 ---
 
 ## Features
