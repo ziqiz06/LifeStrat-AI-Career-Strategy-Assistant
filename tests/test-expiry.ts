@@ -2,7 +2,7 @@
  * test-expiry.ts
  * --------------
  * Tests for isOpportunityExpired().
- * Run with:  npx ts-node scripts/test-expiry.ts
+ * Run with:  npx tsx tests/test-expiry.ts
  *
  * Mocks Date.now() so tests are reproducible regardless of when they run.
  * Simulated "now": 2026-03-29 10:00:00 local time.

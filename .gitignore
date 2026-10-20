@@ -7,3 +7,8 @@ out/
 
 token.json
 client_secret*.json
+
+# Build artifacts / OS files
+*.tsbuildinfo
+.DS_Store
+.venv/

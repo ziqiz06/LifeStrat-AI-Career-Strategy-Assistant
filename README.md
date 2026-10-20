@@ -135,6 +135,14 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+### 6. Run tests
+
+```bash
+npm test
+```
+
+Runs the scheduling, deduplication, ranking, and AI-plan writeback test suites in `tests/`.
+
 ---
 
 ## Project Structure
@@ -171,6 +179,8 @@ src/
 │   └── appStore.ts          # Zustand global store
 └── types/
     └── index.ts             # All shared TypeScript types
+
+tests/                       # Planner, dedup, ranking, and writeback tests (npm test)
 ```
 
 ---

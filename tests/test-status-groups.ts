@@ -2,7 +2,7 @@
  * test-status-groups.ts
  * ----------------------
  * Tests for opportunity status grouping logic.
- * Run with:  npx ts-node scripts/test-status-groups.ts
+ * Run with:  npx tsx tests/test-status-groups.ts
  *
  * Simulated "now": 2026-03-29 10:00:00
  */

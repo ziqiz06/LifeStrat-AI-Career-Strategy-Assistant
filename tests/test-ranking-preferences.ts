@@ -2,7 +2,7 @@
  * test-ranking-preferences.ts
  * ────────────────────────────
  * Tests that opportunity ranking reacts significantly to user preference changes.
- * Run with:  npx ts-node scripts/test-ranking-preferences.ts
+ * Run with:  npx tsx tests/test-ranking-preferences.ts
  *
  * Key scenario: profile set to AI/ML → check ranking → switch to unrelated field
  * → ranking should change significantly (AI/ML opps should drop in priority).

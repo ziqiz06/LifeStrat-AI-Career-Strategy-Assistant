@@ -2,7 +2,7 @@
  * test-plan-repair.ts
  * ────────────────────
  * Tests for the AI Plan violation detection logic (local constraint checking).
- * Run with:  npx ts-node scripts/test-plan-repair.ts
+ * Run with:  npx tsx tests/test-plan-repair.ts
  *
  * These tests validate that computeViolations() correctly flags:
  *   1. flexible tasks scheduled after their deadline

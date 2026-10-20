@@ -3,7 +3,7 @@
  * ---------------
  * Tests for overnight intervals, 24h formatting, deadline scheduling,
  * and invalid-interval prevention.
- * Run with:  npx ts-node scripts/test-planner.ts
+ * Run with:  npx tsx tests/test-planner.ts
  */
 
 // ── Inline helpers (mirrors src/lib/dayPlanner.ts) ────────────────────────────

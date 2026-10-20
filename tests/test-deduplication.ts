@@ -2,7 +2,7 @@
  * test-deduplication.ts
  * ─────────────────────
  * Tests for email-level deduplication (mirrors src/lib/emailDeduplication.ts).
- * Run with:  npx ts-node scripts/test-deduplication.ts
+ * Run with:  npx tsx tests/test-deduplication.ts
  */
 
 // ── Inline types ──────────────────────────────────────────────────────────────

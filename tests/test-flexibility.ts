@@ -2,7 +2,7 @@
  * test-flexibility.ts
  * --------------------
  * Tests for flexibility-aware scheduling classification and behavior.
- * Run with:  npx ts-node scripts/test-flexibility.ts
+ * Run with:  npx tsx tests/test-flexibility.ts
  */
 
 // ── Inline helpers ─────────────────────────────────────────────────────────────

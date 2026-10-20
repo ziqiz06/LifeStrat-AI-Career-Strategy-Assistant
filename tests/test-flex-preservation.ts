@@ -3,7 +3,7 @@
  * ─────────────────────────
  * Tests that flexible tasks remain flexible after scheduling,
  * conflict override lifecycle, and description updates.
- * Run with:  npx ts-node scripts/test-flex-preservation.ts
+ * Run with:  npx tsx tests/test-flex-preservation.ts
  */
 
 // ── Inline types ──────────────────────────────────────────────────────────────

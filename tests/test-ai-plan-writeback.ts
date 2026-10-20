@@ -6,7 +6,7 @@
  * verify the full path: violation detection → payload → writeback → calendar state.
  *
  * Run with:
- *   npx ts-node --skip-project --compiler-options '{"module":"CommonJS","moduleResolution":"node"}' scripts/test-ai-plan-writeback.ts
+ *   npx tsx tests/test-ai-plan-writeback.ts
  *
  * Tests prove:
  *  1. A flexible task after its deadline and overlapping a fixed event IS flagged
